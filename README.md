@@ -33,7 +33,7 @@ Program ini ditulis dalam bahasa C standar dan memerlukan compiler C (seperti GC
         ```
     *(Sesuaikan `program_mahasiswa.exe` jika Anda menamai outputnya berbeda)*
 
-## Struktur Kode
+# Struktur Kode #
 
 * Data mahasiswa disimpan dalam sebuah `struct grades`.
 * Menggunakan array global `person[100]` untuk menyimpan data hingga 100 mahasiswa.
